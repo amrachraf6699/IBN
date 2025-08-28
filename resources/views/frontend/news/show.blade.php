@@ -65,7 +65,7 @@
                                     </a>
 
                                     <!-- LinkedIn Share -->
-                                    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ urlencode(url()->current()) }}" 
+                                    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ urlencode(url()->current() }}" 
                                        target="_blank" rel="noopener"
                                        class="group relative w-14 h-14 bg-gradient-to-br from-[#0077B5] to-[#0077B5]/80 rounded-2xl flex items-center justify-center text-white shadow-lg hover:shadow-xl transform hover:scale-110 hover:-translate-y-1 transition-all duration-300">
                                         <svg class="w-6 h-6 transform group-hover:scale-110 transition-transform duration-300" fill="currentColor" viewBox="0 0 24 24">
