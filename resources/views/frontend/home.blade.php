@@ -2,7 +2,9 @@
 $settings = settings();
 @endphp
 <x-frontend.layouts.main :title="__('frontend.home')">
+    @if($sliders->count() > 0)
     <x-frontend.layouts.partials.hero :sliders="$sliders" />
+    @endif
     <x-frontend.layouts.partials.who-are-we :settings="$settings" :statistics="$statistics" />
     @if($services->count() > 0)
     <x-frontend.layouts.partials.our-services :services="$services" />
