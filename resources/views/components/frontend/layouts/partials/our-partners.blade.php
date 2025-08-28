@@ -68,4 +68,18 @@
             </div>
         </div>
     </section>
+@else
+    <!-- No partners available -->
+    <section id="partners" class="py-20 relative overflow-hidden">
+        <div class="container mx-auto px-4 relative z-10">
+            <div class="text-center mb-16">
+                <span class="inline-block text-[#213B75] font-semibold mb-2 relative px-6 py-2 bg-white/80 backdrop-blur-sm rounded-full border border-[#213B75]/20">
+                    {{ __('frontend.our_partners') }}
+                </span>
+                <h2 class="text-3xl md:text-4xl font-bold text-[#222222] mt-4">{{ __('frontend.trusted_by') }} <span
+                        class="text-transparent bg-gradient-to-r from-[#213B75] to-[#F29F05] bg-clip-text">{{ __('frontend.our_partners') }}</span></h2>
+            </div>
+            <p class="text-center text-gray-500"></p>
+        </div>
+    </section>
 @endif
