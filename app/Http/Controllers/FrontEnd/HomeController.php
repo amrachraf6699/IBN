@@ -18,7 +18,6 @@ class HomeController extends Controller
      */
     public function __invoke(Request $request)
     {
-        dd($request->all());
         $statistics = Statistic::all();
         $services = Service::latest()->take(3)->get();
         $partners = Client::latest()->take(5)->get();

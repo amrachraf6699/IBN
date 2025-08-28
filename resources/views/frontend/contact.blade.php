@@ -65,7 +65,7 @@
                                 </div>
                                 <div>
                                     <h4 class="text-lg font-semibold text-white mb-1">Email</h4>
-                                    <p class="text-light/80">info@egymedia.com</p>
+                                    <p class="text-light/80">info@IBN.com</p>
                                 </div>
                             </div>
                             

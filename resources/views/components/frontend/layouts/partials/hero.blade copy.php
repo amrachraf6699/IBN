@@ -15,13 +15,13 @@
                         <span class="relative inline-block">
                             <span class="text-primary">Digital Age</span>
                             <svg class="absolute -bottom-2 left-0 w-full" viewBox="0 0 100 10" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0 5 Q 25 0, 50 5 Q 75 10, 100 5" stroke="#b32025" stroke-width="2" fill="none"/>
+                                <path d="M0 5 Q 25 0, 50 5 Q 75 10, 100 5" stroke="#213B75" stroke-width="2" fill="none"/>
                             </svg>
                         </span>
                     </h1>
                     
                     <p class="text-light text-lg md:text-xl mb-8 max-w-lg opacity-0 animate-fade-in" style="animation-delay: 0.6s">
-                        EgyMedia delivers cutting-edge media solutions and technology services that transform businesses and connect brands with their audiences in meaningful ways.
+                        IBN delivers cutting-edge media solutions and technology services that transform businesses and connect brands with their audiences in meaningful ways.
                     </p>
                     
                     <div class="flex flex-col sm:flex-row gap-4 opacity-0 animate-slide-right" style="animation-delay: 0.9s">
@@ -42,7 +42,7 @@
                         
                         <div class="rounded-lg overflow-hidden shadow-2xl relative">
                             <div class="absolute inset-0 bg-gradient-to-br from-primary/30 to-dark/30 mix-blend-multiply"></div>
-                            <img src="https://picsum.photos/600/400?/800x500" alt="EgyMedia Technology" class="w-full h-auto">
+                            <img src="https://picsum.photos/600/400?/800x500" alt="IBN Technology" class="w-full h-auto">
                         </div>
                     </div>
                     

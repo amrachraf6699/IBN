@@ -9,7 +9,6 @@ $settings = settings();
     @if($services->count() > 0)
     <x-frontend.layouts.partials.our-services :services="$services" />
     @endif
-    {{-- <x-frontend.layouts.partials.our-projects /> --}}
     @if($partners->count() > 0)
     <x-frontend.layouts.partials.our-partners :partners="$partners" />
     @endif

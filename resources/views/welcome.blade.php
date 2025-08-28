@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EgyMedia - Leading Media & Technology Solutions</title>
+    <title>IBN - Leading Media & Technology Solutions</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Changa:wght@200..800&display=swap" rel="stylesheet">
@@ -13,7 +13,7 @@
             theme: {
                 extend: {
                     colors: {
-                        primary: '#b32025',
+                        primary: '#213B75',
                         dark: '#222222',
                         light: '#d1d5db',
                         footer: '#1f2937',
@@ -99,7 +99,7 @@
         }
         
         .pattern-background {
-            background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23b32025' fill-opacity='0.1' fill-rule='evenodd'/%3E%3C/svg%3E");
+            background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23213B75' fill-opacity='0.1' fill-rule='evenodd'/%3E%3C/svg%3E");
         }
         
         .circle-clip {
@@ -144,7 +144,7 @@
         /* Custom progress bar */
         .progress-bar {
             height: 3px;
-            background-color: #b32025;
+            background-color: #213B75;
             position: fixed;
             top: 0;
             left: 0;
@@ -257,13 +257,13 @@
                         <span class="relative inline-block">
                             <span class="text-primary">Digital Age</span>
                             <svg class="absolute -bottom-2 left-0 w-full" viewBox="0 0 100 10" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0 5 Q 25 0, 50 5 Q 75 10, 100 5" stroke="#b32025" stroke-width="2" fill="none"/>
+                                <path d="M0 5 Q 25 0, 50 5 Q 75 10, 100 5" stroke="#213B75" stroke-width="2" fill="none"/>
                             </svg>
                         </span>
                     </h1>
                     
                     <p class="text-light text-lg md:text-xl mb-8 max-w-lg opacity-0 animate-fade-in" style="animation-delay: 0.6s">
-                        EgyMedia delivers cutting-edge media solutions and technology services that transform businesses and connect brands with their audiences in meaningful ways.
+                        IBN delivers cutting-edge media solutions and technology services that transform businesses and connect brands with their audiences in meaningful ways.
                     </p>
                     
                     <div class="flex flex-col sm:flex-row gap-4 opacity-0 animate-slide-right" style="animation-delay: 0.9s">
@@ -284,7 +284,7 @@
                         
                         <div class="rounded-lg overflow-hidden shadow-2xl relative">
                             <div class="absolute inset-0 bg-gradient-to-br from-primary/30 to-dark/30 mix-blend-multiply"></div>
-                            <img src="https://picsum.photos/600/400?/800x500" alt="EgyMedia Technology" class="w-full h-auto">
+                            <img src="https://picsum.photos/600/400?/800x500" alt="IBN Technology" class="w-full h-auto">
                         </div>
                     </div>
                     
@@ -325,7 +325,7 @@
                     WHO WE ARE
                     <span class="absolute bottom-0 left-1/2 transform -translate-x-1/2 h-0.5 w-10 bg-primary"></span>
                 </span>
-                <h2 class="text-3xl md:text-4xl font-bold text-dark">About <span class="text-primary">EgyMedia</span></h2>
+                <h2 class="text-3xl md:text-4xl font-bold text-dark">About <span class="text-primary">IBN</span></h2>
                 <p class="text-gray-600 max-w-2xl mx-auto mt-4">
                     We're a leading media technology company with a mission to transform how businesses connect with their audiences.
                 </p>
@@ -336,7 +336,7 @@
                     <div class="relative">
                         <div class="bg-primary/10 absolute -top-6 -left-6 w-full h-full rounded-lg"></div>
                         <div class="relative rounded-lg overflow-hidden">
-                            <img src="https://picsum.photos/600/400?/600x400" alt="About EgyMedia" class="w-full h-auto">
+                            <img src="https://picsum.photos/600/400?/600x400" alt="About IBN" class="w-full h-auto">
                             <div class="absolute inset-0 bg-gradient-to-br from-primary/40 to-dark/40 opacity-0 hover:opacity-100 transition-all duration-500"></div>
                         </div>
                         
@@ -354,7 +354,7 @@
                         <span class="absolute -bottom-2 left-0 h-1 w-16 bg-primary"></span>
                     </h3>
                     <p class="text-gray-600 mb-6">
-                        Founded in 2008, EgyMedia has established itself as a leader in media production and technology solutions in the Middle East and North Africa. Our team of creative professionals and technical experts work together to deliver exceptional results for our clients.
+                        Founded in 2008, IBN has established itself as a leader in media production and technology solutions in the Middle East and North Africa. Our team of creative professionals and technical experts work together to deliver exceptional results for our clients.
                     </p>
                     <p class="text-gray-600 mb-8">
                         We believe in the power of storytelling and innovative technology to transform businesses and connect them with their audience in meaningful ways. Our commitment to excellence and innovation has earned us the trust of leading brands across various industries.
@@ -1084,9 +1084,9 @@
                             </svg>
                             <span>May 15, 2023</span>
                         </div>
-                        <h3 class="text-xl font-bold text-dark mb-2">EgyMedia Wins Best Digital Agency Award</h3>
+                        <h3 class="text-xl font-bold text-dark mb-2">IBN Wins Best Digital Agency Award</h3>
                         <p class="text-gray-600 mb-4">
-                            EgyMedia was recognized as the Best Digital Agency at the annual Digital Excellence Awards ceremony.
+                            IBN was recognized as the Best Digital Agency at the annual Digital Excellence Awards ceremony.
                         </p>
                         <a href="#" class="inline-flex items-center font-semibold text-primary hover:text-dark transition-colors duration-300">
                             Read Full Article
@@ -1144,9 +1144,9 @@
                             </svg>
                             <span>March 12, 2023</span>
                         </div>
-                        <h3 class="text-xl font-bold text-dark mb-2">EgyMedia Expands Operations to Gulf Region</h3>
+                        <h3 class="text-xl font-bold text-dark mb-2">IBN Expands Operations to Gulf Region</h3>
                         <p class="text-gray-600 mb-4">
-                            EgyMedia announces expansion of its operations to the Gulf region with a new office in Dubai.
+                            IBN announces expansion of its operations to the Gulf region with a new office in Dubai.
                         </p>
                         <a href="#" class="inline-flex items-center font-semibold text-primary hover:text-dark transition-colors duration-300">
                             Read Full Article
@@ -1236,7 +1236,7 @@
                                 </div>
                                 <div>
                                     <h4 class="text-lg font-semibold text-white mb-1">Email</h4>
-                                    <p class="text-light/80">info@egymedia.com</p>
+                                    <p class="text-light/80">info@IBN.com</p>
                                 </div>
                             </div>
                             
@@ -1304,10 +1304,10 @@
                 <!-- Company Info -->
                 <div>
                     <a href="#" class="flex items-center mb-6">
-                        <span class="text-2xl font-bold text-white">Egy<span class="text-primary">Media</span></span>
+                        <span class="text-2xl font-bold text-white">I<span class="text-primary">BN</span></span>
                     </a>
                     <p class="text-light/80 mb-6">
-                        EgyMedia delivers cutting-edge media production and digital solutions that help businesses connect with their audience and achieve their goals.
+                        IBN delivers cutting-edge media production and digital solutions that help businesses connect with their audience and achieve their goals.
                     </p>
                     <div class="flex space-x-4">
                         <a href="#" class="text-white hover:text-primary transition-colors duration-300">
@@ -1383,7 +1383,7 @@
             </div>
             
             <div class="border-t border-white/10 mt-12 pt-8 text-center">
-                <p class="text-light/80">&copy; 2023 EgyMedia. All rights reserved.</p>
+                <p class="text-light/80">&copy; 2023 IBN. All rights reserved.</p>
             </div>
         </div>
     </footer>

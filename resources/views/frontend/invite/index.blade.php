@@ -312,14 +312,14 @@
     <style>
         /* Custom styles */
         .step-active {
-            color: #b32025;
-            border-color: #b32025;
+            color: #213B75;
+            border-color: #213B75;
         }
         
         .step-completed {
-            background-color: #b32025;
+            background-color: #213B75;
             color: white;
-            border-color: #b32025;
+            border-color: #213B75;
         }
         
         .step-line {
@@ -331,7 +331,7 @@
         }
         
         .step-line-active {
-            background-color: #b32025;
+            background-color: #213B75;
         }
         
         /* File upload styling */
@@ -380,14 +380,14 @@
         }
         
         .time-slot:hover {
-            border-color: #b32025;
+            border-color: #213B75;
             background-color: rgba(179, 32, 37, 0.05);
         }
         
         .time-slot.selected {
-            background-color: #b32025;
+            background-color: #213B75;
             color: white;
-            border-color: #b32025;
+            border-color: #213B75;
         }
         
         .time-slot.disabled {
@@ -606,7 +606,7 @@
                         loaderStyle.innerHTML = `
                             .loader {
                                 border: 8px solid #f3f3f3;
-                                border-top: 8px solid #b32025;
+                                border-top: 8px solid #213B75;
                                 border-radius: 50%;
                                 width: 50px;
                                 height: 50px;

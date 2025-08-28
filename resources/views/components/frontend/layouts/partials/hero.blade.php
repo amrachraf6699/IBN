@@ -134,7 +134,7 @@
   }
   
   .hero-swiper .swiper-pagination-bullet-active {
-    background: #b32025;
+    background: #213B75;
     opacity: 1;
     transform: scale(1.3);
     border-color: #ffffff;
@@ -165,7 +165,7 @@
   }
   
   .hero-swiper .swiper-pagination-bullet-active {
-    background: #b32025;
+    background: #213B75;
     opacity: 1;
     transform: scale(1.2);
     border-color: #ffffff;
@@ -199,7 +199,7 @@
 
 /* Alternative background for mobile if needed */
 .mobile-bg-fallback {
-  background: linear-gradient(135deg, #b32025 0%, #8b1a1e 100%) !important;
+  background: linear-gradient(135deg, #213B75 0%, #8b1a1e 100%) !important;
 }
 
 /* Alternative mobile style - if you want to stretch the image */

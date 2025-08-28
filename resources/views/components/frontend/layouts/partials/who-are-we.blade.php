@@ -1,4 +1,4 @@
-    <section id="about" class="py-20">
+    <section id="about" class="py-20 mt-4">
         <div class="container mx-auto px-4">
             <div class="text-center mb-16 scroll-trigger">
                 <span class="inline-block text-primary font-semibold mb-2 relative">
@@ -15,7 +15,7 @@
 <div class="relative max-w-xs md:max-w-sm lg:max-w-md mx-auto">
   <div class="bg-primary/10 absolute -top-6 -left-6 w-full h-full rounded-lg"></div>
   <div class="relative rounded-lg overflow-hidden">
-    <img src="{{ asset('stats.jpg') }}" alt="About EgyMedia"
+    <img src="{{ asset('stats.jpg') }}" alt="About IBN"
          class="w-full h-auto rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 object-cover">
     <div class="absolute inset-0 bg-gradient-to-br from-primary/40 to-dark/40 opacity-0 hover:opacity-100 transition-all duration-500"></div>
   </div>

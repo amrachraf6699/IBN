@@ -3,7 +3,7 @@
         <head>
           <meta charset="UTF-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>EgyMedia - Digital Media Solutions</title>
+          <title>IBN - Digital Media Solutions</title>
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -839,7 +839,7 @@
               <h2 class="section-title">About Us</h2>
               <div class="about-content">
                 <div class="about-text animate-on-scroll">
-                  <p>EgyMedia is a leading digital media agency specializing in creating impactful digital solutions for businesses of all sizes.</p>
+                  <p>IBN is a leading digital media agency specializing in creating impactful digital solutions for businesses of all sizes.</p>
                   <p>With over a decade of experience in the industry, we've helped hundreds of companies establish their digital presence and connect with their target audience.</p>
                   <p>Our mission is to provide innovative, tailored solutions that drive growth and deliver measurable results for our clients.</p>
                 </div>
@@ -1244,7 +1244,7 @@
                         </svg>
                       </div>
                       <div class="contact-text">
-                        <a href="mailto:info@egymedia.com">info@egymedia.com</a>
+                        <a href="mailto:info@IBN.com">info@IBN.com</a>
                       </div>
                     </div>
                   </div>
@@ -1364,7 +1364,7 @@
               </div>
               
               <div class="copyright">
-                © 2023 EgyMedia. All Rights Reserved.
+                © 2023 IBN. All Rights Reserved.
               </div>
             </div>
           </footer>

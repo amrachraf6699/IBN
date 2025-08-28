@@ -5,8 +5,8 @@ return
     'our_location'  =>  'Our Location',
     'get_directions' => 'Get Directions',
     'view_on_google_maps' => 'View On Google Maps',
-    'egy' => 'Egy',
-    'media' => 'Media',
+    'egy' => 'IB',
+    'media' => 'N',
     'job_description' => 'Job Description',
     'job_terms' => 'Job Terms',
     'questions' => 'Questions',
@@ -130,4 +130,6 @@ return
     'about_description_2' => 'We don\'t just offer services — we build long-term partnerships and aim to be the driving force behind every brand\'s success.',
     'vision_text' => 'To be the #1 choice for businesses seeking digital excellence.',
     'mission_text' => 'Deliver services that blend quality, innovation, and real impact.',
+    'discover' => 'Discover',
+    'our_story' => 'Our Story',
 ];
