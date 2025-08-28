@@ -1,7 +1,6 @@
 @php
 $settings = settings();
 @endphp
-asfg
 <x-frontend.layouts.main :title="__('frontend.home')">
     @if($sliders->count() > 0)
     <x-frontend.layouts.partials.hero :sliders="$sliders" />
