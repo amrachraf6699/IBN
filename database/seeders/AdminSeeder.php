@@ -13,7 +13,7 @@ class AdminSeeder extends Seeder
      */
     public function run(): void
     {
-        Admin::FirstOrUpdate(
+        Admin::updateOrCreate(
             [
                 'email' => 'admin@website.com',
             ],
@@ -23,7 +23,7 @@ class AdminSeeder extends Seeder
             ]
         );
 
-        Admin::FirstOrUpdate(
+        Admin::updateOrCreate(
             [
                 'email' => 'admin@ibn-c.amrachraf.cloud'
             ],
