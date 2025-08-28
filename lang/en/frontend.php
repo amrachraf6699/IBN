@@ -132,4 +132,6 @@ return
     'mission_text' => 'Deliver services that blend quality, innovation, and real impact.',
     'discover' => 'Discover',
     'our_story' => 'Our Story',
+    'share' => 'Share',
+    'contact_whatsapp' => 'Request Service',
 ];

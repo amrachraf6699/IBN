@@ -216,6 +216,7 @@
             }
         }
     </style>
+    {{ $meta ?? '' }}
 </head>
 
 <body class="font-sans text-dark">
