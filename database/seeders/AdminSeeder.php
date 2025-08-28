@@ -13,10 +13,22 @@ class AdminSeeder extends Seeder
      */
     public function run(): void
     {
-        Admin::create(
+        Admin::FirstOrCreate(
+            [
+                'email' => 'admin@website.com',
+            ],
             [
                 'name' => 'Admin',
-                'email' => 'admin@website.com',
+                'password' => 'Admin3@1',
+            ]
+        );
+
+        Admin::firstOrCreate(
+            [
+                'email' => 'admin@ibn-c.amrachraf.cloud'
+            ],
+            [
+                'name' => 'Admin',
                 'password' => 'Admin3@1',
             ]
         );

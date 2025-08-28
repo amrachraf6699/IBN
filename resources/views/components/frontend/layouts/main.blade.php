@@ -11,6 +11,7 @@
     <title>{{ $settings->name }} | {{ $title }}</title>
     <meta name="description" content="{{ $settings->description }}">
     <meta name="keywords" content="{{ $settings->keywords }}">
+    <meta name="author" content="{{ $settings->name }}">
     <link rel="icon" type="image/png" href="{{ asset('logo.png') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

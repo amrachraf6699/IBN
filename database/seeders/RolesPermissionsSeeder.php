@@ -15,7 +15,7 @@ class RolesPermissionsSeeder extends Seeder
      */
     public function run(): void
     {
-        $role = Role::create(['name' => 'super-admin' , 'guard_name' => 'admins']);
+        $role = Role::FirstOrCreate(['name' => 'super-admin'] , ['guard_name' => 'admins']);
 
         $actions = ['create', 'read', 'update', 'delete'];
         $resources = [
@@ -34,11 +34,15 @@ class RolesPermissionsSeeder extends Seeder
         foreach ($resources as $resource) {
             foreach ($actions as $action) {
                 $permissionName = "{$action}_{$resource}";
-                $permission = Permission::create(['name' => $permissionName , 'guard_name' => 'admins']);
+                $permission = Permission::FirstOrCreate(['name' => $permissionName] , ['guard_name' => 'admins']);
                 $role->givePermissionTo($permission);
             }
         }
 
-        Admin::first()->assignRole($role);
+        $admins = Admin::all();
+
+        foreach ($admins as $admin) {
+            $admin->assignRole($role);
+        }
     }
 }
